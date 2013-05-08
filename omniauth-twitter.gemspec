@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "omniauth-twitter/version"
 
 Gem::Specification.new do |s|
-  s.name        = "omniauth-twitter"
+  s.name        = "nml1977-omniauth-twitter"
   s.version     = OmniAuth::Twitter::VERSION
   s.authors     = ["Arun Agrawal"]
   s.email       = ["arunagw@gmail.com"]
